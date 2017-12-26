@@ -4,9 +4,9 @@ $username = "ramdb";
 $password = "*****";
 $dbname = "ramdb";
 $id = $_POST["id"];
-$lastname = $_POST["lastname"];
-$firstname = $_POST["firstname"];
-$address = $_POST["address"];
+$lastname = $_POST["mokara"];
+$firstname = $_POST["suresh venkata"];
+$address = $_POST["4-10"];
 $city = $_POST["city"];
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
