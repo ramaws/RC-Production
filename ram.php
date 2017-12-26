@@ -6,7 +6,7 @@ $dbname = "ramdb";
 $id = $_POST["id"];
 $lastname = $_POST["mokara"];
 $firstname = $_POST["suresh venkata"];
-$address = $_POST["address"];
+$address = $_POST["4-10"];
 $city = $_POST["city"];
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
