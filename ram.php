@@ -4,8 +4,8 @@ $username = "ramdb";
 $password = "RAM2304201*";
 $dbname = "ramdb";
 $id = $_POST["id"];
-$lastname = $_POST["lastname"];
-$firstname = $_POST["firstname"];
+$lastname = $_POST["mokara"];
+$firstname = $_POST["suresh venkata"];
 $address = $_POST["address"];
 $city = $_POST["city"];
 // Create connection
